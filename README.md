@@ -7,4 +7,4 @@
 
 <!--  -->
 ### Problem 1
-Create an array with 5 students names, after that create a function which takes 2 parameters (alStudents & studentName) iterate over all students and find that specific user "studentName".
+Create an array with 5 students names, after that create a function which takes 2 parameters (allStudents & studentName) iterate over all students and find that specific user "studentName".
